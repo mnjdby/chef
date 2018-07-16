@@ -1,4 +1,5 @@
 package 'vim-enhanced'
+package 'emacs'
 package 'nano'
 
 package 'tree' do 
@@ -8,6 +9,7 @@ end
 package 'git' do
  action :install
 end
+
 
 package 'ntp' 
 
